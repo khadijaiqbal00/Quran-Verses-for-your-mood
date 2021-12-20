@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#circle {
+    fill: rgba(64,1,10,1);
+}
+.circle {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    top: 60px;
+    left: 195px;
+}
+#logo {
+    position: absolute;
+    width: 113px;
+    height: 74px;
+    left: 201px;
+    top: 80px;
+}
+#Digital {
+    left: 413px;
+    top: 58px;
+    position: absolute;
+    width: 161px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(64,1,10,1);
+    letter-spacing: 3px;
+}
+#QURAN {
+    left: 387px;
+    top: 91px;
+    position: absolute;
+    width: 217px;
+    text-align: left;
+    font-size: 58px;
+    color: rgba(64,1,10,1);
+}
+#Quran_Verses_for_Your_Mood {
+    left: 408px;
+    top: 172px;
+    position: absolute;
+    width: 192px;
+    font-size: 13px;
+    color: rgba(219,164,56,1);
+}
+#Large_rec {
+    fill: rgba(64,1,10,1);
+    
+}
+.Large_rec {
+    position: absolute;
+    
+    width: 2076px;
+    height: 1103px;
+    left: -47px;
+    top: 237px;
+}
+#ChatBot_rec {
+    fill: rgba(218,164,56,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.ChatBot_rec {
+    position: absolute;
+    overflow: visible;
+    width: 845px;
+    height: 113px;
+    left: 570px;
+    top: 271px;
+}
+#ChatBot {
+    left: 863px;
+    top: 289px;
+    position: absolute;
+    overflow: visible;
+    width: 233px;
+    white-space: nowrap;
+    line-height: 61px;
+    margin-top: -3px;
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.01px;
+}
+
+
+#Arabic_rec {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Arabic_rec {
+    position: absolute;
+    overflow: visible;
+    width: 231px;
+    height: 62px;
+    left: 871px;
+    top: 427px;
+}
+
+#gender_rec {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.gender_rec {
+    position: absolute;
+    overflow: visible;
+    width: 353px;
+    height: 77px;
+    left: 807px;
+    top: 507px;
+}
+#Arabic {
+    left: 943px;
+    top: 440px;
+    position: absolute;
+    overflow: visible;
+    width: 93px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    color: rgba(64,1,10,1);
+}
+#Male {
+    left: 943px;
+    top: 525px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    color: rgba(64,1,10,1);
+}
+#l2_rec {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.l2_rec {
+    position: absolute;
+    overflow: visible;
+    width: 1288px;
+    height: 397px;
+    left: 335px;
+    top: 644px;
+}
+#b1 {
+    fill: rgba(64,1,10,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.b1 {
+    position: absolute;
+    overflow: visible;
+    width: 605px;
+    height: 90px;
+    left: 388px;
+    top: 699px;
+}
+#b2 {
+    fill: rgba(218,164,56,1);
+}
+.b2 {
+    position: absolute;
+    overflow: visible;
+    width: 605px;
+    height: 90px;
+    left: 960px;
+    top: 819px;
+}
+#b3 {
+    fill: rgba(64,1,10,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.b3 {
+    position: absolute;
+    overflow: visible;
+    width: 605px;
+    height: 90px;
+    left: 397px;
+    top: 939px;
+}
+
+
+
+
+

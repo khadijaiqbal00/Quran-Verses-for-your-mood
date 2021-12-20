@@ -1,0 +1,33 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+.dot{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(73, 20, 20);
+    border-radius: 50%;
+    display: inline-block;
+}
+img{
+    height: 100px;
+    width: 142px;
+    display: flex;
+    align-content: end;
+    align-items: flex-end;
+}
+h1
+{
+    text-align: right;
+    color: rgb(73, 20, 20);
+
+}
+h3
+{
+
+    text-align: center;
+    color:  rgb(158, 156, 45);;
+}

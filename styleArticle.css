@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#circle {
+    fill: rgba(64,1,10,1);
+}
+.circle {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    top: 60px;
+    left: 195px;
+}
+#logo {
+    position: absolute;
+    width: 113px;
+    height: 74px;
+    left: 201px;
+    top: 80px;
+}
+#Digital {
+    left: 413px;
+    top: 58px;
+    position: absolute;
+    width: 161px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(64,1,10,1);
+    letter-spacing: 3px;
+}
+#QURAN {
+    left: 387px;
+    top: 91px;
+    position: absolute;
+    width: 217px;
+    text-align: left;
+    font-size: 58px;
+    color: rgba(64,1,10,1);
+}
+#Quran_Verses_for_Your_Mood {
+    left: 408px;
+    top: 172px;
+    position: absolute;
+    width: 192px;
+    font-size: 13px;
+    color: rgba(219,164,56,1);
+}
+#Large_rec {
+    fill: rgba(64,1,10,1);
+    
+}
+.Large_rec {
+    position: absolute;
+    
+    width: 2076px;
+    height: 1103px;
+    left: 11px;
+    top: 237px;
+}
+
+
+
+#Article_rec {
+    fill: rgba(218,164,56,1);
+}
+.Article_rec {
+    position: absolute;
+    width: 572px;
+    height: 164px;
+    left: 677px;
+    top: 309px;
+}
+#Articles {
+    left: 797px;
+    top: 324px;
+    position: absolute;
+    width: 343px;
+    font-weight: bold;
+    font-size: 90px;
+    color: rgba(255,255,255,1);
+}
+
+
+#rec_2 {
+    fill: rgba(255,255,255,1);
+}
+.rec_2 {
+    position: absolute;
+    width: 417px;
+    left: 762px;
+    top: 540px;
+}
+#rec_3 {
+    fill: rgba(218,164,56,1);
+}
+.rec_3 {
+    position: absolute;
+    width: 225px;
+    height: 53px;
+    left: 866px;
+    top: 671px;
+}
+#Choose_Your_Language {
+    left: 815px;
+    top: 566px;
+    position: absolute;
+    width: 297px;
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+    color: rgba(64,1,10,1);
+}
+
+#English {
+    left: 889px;
+    top: 681px;
+    position: absolute;
+    width: 105px;
+    text-align: center;
+    font-size: 23px;
+    color: rgba(255,255,255,1);
+}
+#Polygon_3 {
+    fill: rgba(255,255,255,1);
+}
+.Polygon_3 {
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    transform-origin: center;
+    left: 1027px;
+    top: 685px;
+
+    transform: rotate(180deg);
+}
+#box1 {
+    fill: rgba(255,255,255,1);
+}
+.box1 {
+    position: absolute;
+    width: 308px;
+    height: 185px;
+    left: 830px;
+    top: 852px;
+}
+#Most_Read_articles {
+    left: 874px;
+    top: 911px;
+    position: absolute;
+    width: 223px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgba(64,1,10,1);
+}

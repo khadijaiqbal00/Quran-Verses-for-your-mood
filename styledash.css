@@ -1,0 +1,299 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#circle {
+    fill: rgba(64,1,10,1);
+}
+.circle {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    top: 60px;
+    left: 195px;
+}#logo {
+    position: absolute;
+    width: 113px;
+    height: 74px;
+    left: 201px;
+    top: 80px;
+}
+#Digital {
+    left: 413px;
+    top: 58px;
+    position: absolute;
+    width: 161px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(64,1,10,1);
+    letter-spacing: 3px;
+}
+#QURAN {
+    left: 387px;
+    top: 91px;
+    position: absolute;
+    width: 217px;
+    text-align: left;
+    font-size: 58px;
+    color: rgba(64,1,10,1);
+}
+#Quran_Verses_for_Your_Mood {
+    left: 408px;
+    top: 172px;
+    position: absolute;
+    width: 192px;
+    font-size: 13px;
+    color: rgba(219,164,56,1);
+}
+#Large_rec {
+    fill: rgba(64,1,10,1);
+    
+}
+.Large_rec {
+    position: absolute;
+    width: 2076px;
+    height: 1103px;
+    left: -10px;
+    top: 237px;
+}
+#b1 {
+    fill: transparent;
+    stroke: rgba(251,246,246,1);
+    stroke-width: 3px;
+}
+.b1 {
+    position: absolute;
+    width: 309px;
+    height: 273px;
+    left: 314px;
+    top: 330px;
+}
+#b2 {
+    fill: transparent;
+    stroke: rgba(251,246,246,1);
+    stroke-width: 3px;
+}
+.b2 {
+    position: absolute;
+    width: 303px;
+    height: 273px;
+    left: 659px;
+    top: 328px;
+}
+#user_profile {
+    left: 365px;
+    top: 507px;
+    position: absolute;
+    width: 151px;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(251,255,251,1);
+}
+#Sort_and_Filter {
+    left: 693px;
+    top: 517px;
+    position: absolute;
+    width: 251px;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(251,255,251,1);
+}
+#user {
+    position: absolute;
+    width: 131px;
+    height: 130px;
+    left: 395px;
+    top: 352px;
+}
+#search {
+    position: absolute;
+    width: 183px;
+    height: 182px;
+    left: 724px;
+    top: 358px;
+}
+
+#b3 {
+    fill: transparent;
+    stroke: rgba(251,246,246,1);
+    stroke-width: 3px;
+}
+.b3 {
+    position: absolute;
+    width: 309px;
+    height: 274px;
+    left: 998px;
+    top: 328px;
+}
+#b4 {
+    fill: transparent;
+    stroke: rgba(251,246,246,1);
+    stroke-width: 3px;
+}
+.b4 {
+    position: absolute;
+    width: 309px;
+    height: 274px;
+    left: 1364px;
+    top: 328px;
+}
+#b5 {
+    fill: transparent;
+    stroke: rgba(251,246,246,1);
+    stroke-width: 3px;
+}
+.b5 {
+    position: absolute;
+    width: 309px;
+    height: 275px;
+    left: 315px;
+    top: 726px;
+}
+#b6 {
+    fill: transparent;
+    stroke: rgba(251,246,246,1);
+    stroke-width: 3px;
+}
+.b6 {
+    position: absolute;
+    width: 304px;
+    height: 274px;
+    left: 665px;
+    top: 719px;
+}
+#b7 {
+    fill: transparent;
+    stroke: rgba(251,246,246,1);
+    stroke-width: 3px;
+}
+.b7 {
+    position: absolute;
+    width: 309px;
+    height: 273px;
+    left: 1009px;
+    top: 722px;
+}
+#b8 {
+    fill: transparent;
+    stroke: rgba(251,246,246,1);
+    stroke-width: 3px;
+}
+.b8 {
+    position: absolute;
+    width: 303px;
+    height: 274px;
+    left: 1362px;
+    top: 719px;
+}
+#settings {
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 1396px;
+    top: 694px;
+}
+#explore {
+    position: absolute;
+    width: 143px;
+    height: 142px;
+    left: 1087px;
+    top: 742px;
+}
+#Chatbot {
+    left: 1090px;
+    top: 529px;
+    position: absolute;
+    width: 137px;
+    font-size: 32px;
+    color: rgba(251,255,251,1);
+}
+#Personality_Evaluation {
+    left: 1421px;
+    top: 520px;
+    position: absolute;
+    width: 206px;
+    font-size: 35px;
+    color: rgba(251,255,251,1);
+}
+#translation {
+    position: absolute;
+    width: 386px;
+    height: 374px;
+    left: 947px;
+    top: 278px;
+}
+#Personality_pic {
+    width: 262px;
+    height: 242px;
+    position: absolute;
+    left: 1383px;
+    top: 317px;
+}
+#attitude {
+    position: absolute;
+    width: 261px;
+    height: 261px;
+    left: 339px;
+    top: 701px;
+}
+#information {
+    position: absolute;
+    width: 179px;
+    height: 180px;
+    left: 725px;
+    top: 726px;
+}
+#settings {
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    left: 1396px;
+    top: 694px;
+}
+#explore {
+    position: absolute;
+    width: 143px;
+    height: 142px;
+    left: 1087px;
+    top: 742px;
+}
+#moodDetection {
+    left: 374px;
+    top: 895px;
+    position: absolute;
+    width: 175px;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(251,255,251,1);
+}
+#Translation_And_tafseer {
+    left: 674px;
+    top: 888px;
+    position: absolute;
+    width: 289px;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(251,255,251,1);
+}
+#Explore_bw {
+    left: 1091px;
+    top: 910px;
+    position: absolute;
+    width: 133px;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(251,255,251,1);
+}
+#Configuration {
+    left: 1388px;
+    top: 910px;
+    position: absolute;
+    width: 253px;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(251,255,251,1);
+}

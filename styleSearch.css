@@ -1,0 +1,255 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#circle {
+    fill: rgba(64,1,10,1);
+}
+.circle {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    top: 60px;
+    left: 195px;
+}
+#logo {
+    position: absolute;
+    width: 113px;
+    height: 74px;
+    left: 201px;
+    top: 80px;
+}
+#Digital {
+    left: 413px;
+    top: 58px;
+    position: absolute;
+    width: 161px;
+    text-align: left;
+    font-size: 31px;
+    color: rgba(64,1,10,1);
+    letter-spacing: 3px;
+}
+#QURAN {
+    left: 387px;
+    top: 91px;
+    position: absolute;
+    width: 217px;
+    text-align: left;
+    font-size: 58px;
+    color: rgba(64,1,10,1);
+}
+#Quran_Verses_for_Your_Mood {
+    left: 408px;
+    top: 172px;
+    position: absolute;
+    width: 192px;
+    font-size: 13px;
+    color: rgba(219,164,56,1);
+}
+#Large_rec {
+    fill: rgba(64,1,10,1);
+    
+}
+.Large_rec {
+    position: absolute;
+    width: 2076px;
+    height: 1103px;
+    left: 0px;
+    top: 237px;
+}
+#r2 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 6px;
+}
+.r2 {
+    position: absolute;
+    width: 1773px;
+    height: 684px;
+    left: 113px;
+    top: 407px;
+}
+#r3 {
+    fill: transparent;
+    stroke: rgba(218,164,56,1);
+    stroke-width: 6px;
+}
+.r3 {
+    position: absolute;
+    width: 357px;
+    height: 75px;
+    left: 788px;
+    top: 495px;
+}
+#sr {
+    fill: rgba(64,1,10,1);
+}
+.sr {
+    position: absolute;
+    width: 538px;
+    height: 73px;
+    left: 1081px;
+    top: 102px;
+}
+#t {
+    left: 1143px;
+    top: 618px;
+    position: absolute;
+    width: 406px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 47px;
+    color: rgba(218,164,56,1);
+}
+#t1 {
+    left: 780px;
+    top: 623px;
+    position: absolute;
+    width: 272px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 47px;
+    color: rgba(218,164,56,1);
+}
+#t2 {
+    left: 402px;
+    top: 626px;
+    position: absolute;
+    width: 278px;
+    font-weight: bold;
+    font-size: 47px;
+    color: rgba(218,164,56,1);
+}
+#t3 {
+    left: 1150px;
+    top: 728px;
+    position: absolute;
+    width: 442px;
+    font-weight: bold;
+    font-size: 47px;
+    color: rgba(218,164,56,1);
+}
+#t4 {
+    left: 642px;
+    top: 743px;
+    position: absolute;
+    width: 419px;
+    font-weight: bold;
+    font-size: 47px;
+    color: rgba(218,164,56,1);
+}
+#t5 {
+    left: 345px;
+    top: 738px;
+    position: absolute;
+    width: 209px;
+    font-weight: bold;
+    font-size: 47px;
+    color: rgba(218,164,56,1);
+}
+#t6 {
+    left: 542px;
+    top: 852px;
+    position: absolute;
+    width: 877px;
+    font-weight: bold;
+    font-size: 47px;
+    color: rgba(218,164,56,1);
+}
+
+#c1 {
+    fill: rgba(218,164,56,1);
+}
+.c1 {
+    position: absolute;
+    width: 48px;
+    height: 46px;
+    left: 1065px;
+    top: 738px;
+}
+#c2 {
+    fill: rgba(218,164,56,1);
+}
+.c2 {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 564px;
+    top: 742px;
+}
+#c3 {
+    fill: rgba(218,164,56,1);
+}
+.c3 {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 472px;
+    top: 855px;
+}
+#c4 {
+    fill: rgba(218,164,56,1);
+}
+.c4 {
+    position: absolute;
+    width: 46px;
+    height: 48px;
+    left: 325px;
+    top: 631px;
+}
+#c5 {
+    fill: rgba(218,164,56,1);
+}
+.c5 {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 1062px;
+    top: 623px;
+}
+#c6 {
+    fill: rgba(218,164,56,1);
+}
+.c6 {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 685px;
+    top: 630px;
+}
+#b1 {
+    left: 773px;
+    top: 422px;
+    position: absolute;
+    width: 450px;
+    font-size: 48px;
+    font-weight: bold;
+    color: rgba(218,164,56,1);
+}
+#s {
+    left: 853px;
+    top: 500px;
+    position: absolute;
+    width: 289px;
+    font-weight: bold;
+    font-size: 56px;
+    color: rgba(218,164,56,1);
+}
+#Search_surat_ayat_or_Sajda {
+    left: 1156px;
+    top: 122px;
+    position: absolute;
+    width: 307px;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(255,255,255,1);
+}
+#search {
+    position: absolute;
+    width: 66px;
+    height: 67px;
+    left: 1541px;
+    top: 105px;
+}
